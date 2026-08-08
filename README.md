@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priya
 
-### 💻 B.Tech CSE Student | MERN Stack Developer | Full Stack Developer
+### 💻 B.Tech CSE Student | MERN Stack Developer 
 
 I'm a Computer Science & Engineering student passionate about building modern, responsive, and user-friendly web applications. I enjoy learning new technologies, creating real-world projects, and continuously improving my development skills.
 
@@ -10,9 +10,8 @@ I'm a Computer Science & Engineering student passionate about building modern, r
 
 - 🎓 B.Tech Computer Science & Engineering Student
 - 💻 MERN Stack Development Enthusiast
-- 🌱 Currently improving my React.js & Node.js skills
+- 🌱 Currently improving my Backend skills and learning new Technologies
 - 🔥 Interested in Full Stack Web Development
-- 🎯 Goal: Become a Software Development Engineer
 - 💡 Love turning ideas into real-world applications
 
 ---
@@ -38,7 +37,7 @@ I'm a Computer Science & Engineering student passionate about building modern, r
 ### Programming
 - C++
 - C
-- Python
+- Python(basic)
 
 ### Tools
 - Git
@@ -63,23 +62,9 @@ A React application demonstrating reusable components, props, state, and dynamic
 
 ## 📜 Certifications & Achievements
 
-- NPTEL Certification
 - Cisco Introduction to Cybersecurity
-- HP Life Data Science Certification
-- JavaScript for Beginners
 - Smart India Hackathon Participant
 - Code Relay – 3rd Position
-
----
-
-## 📈 Currently Learning
-
-- Advanced React.js
-- Node.js & Express.js
-- MongoDB
-- REST APIs
-- Full Stack Development
-
 ---
 
 ## 📫 Connect With Me
