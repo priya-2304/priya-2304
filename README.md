@@ -69,9 +69,8 @@ A React application demonstrating reusable components, props, state, and dynamic
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 💻 GitHub
-- 📧 Email
+- 💼 LinkedIn - https://www.linkedin.com/in/priya-deswal423/
+- 📧 Email - deswal9485@gmail.com
 
 ---
 
