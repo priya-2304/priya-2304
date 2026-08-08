@@ -1,6 +1,8 @@
-👋 Hi! I'm Priya, a passionate Computer Science & Engineering student and MERN Stack Developer. I enjoy building modern, responsive, and user-friendly web applications and continuously exploring new technologies in full-stack development.
+# Hi there 👋
 
-Currently pursuing my B.Tech in Computer Science & Engineering, I have hands-on experience with React.js, JavaScript, Node.js, Express.js, MongoDB, and MySQL. I enjoy turning ideas into real-world projects and improving my problem-solving and development skills through practical work.
+👋 Hello! I'm Priya, a passionate Computer Science & Engineering student and MERN Stack Developer with a strong interest in building modern and user-friendly web applications. I enjoy learning new technologies, working on real-world projects, and continuously improving my development skills.
+
+Currently pursuing my B.Tech in Computer Science & Engineering, I have hands-on experience with React.js, JavaScript, Node.js, Express.js, MongoDB, and MySQL. I enjoy turning ideas into practical applications and exploring different areas of full-stack development.
 
 ### Key Skills:
 
